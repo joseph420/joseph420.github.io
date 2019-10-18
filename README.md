@@ -8,7 +8,7 @@ Joseph Muturi Boro
 Click the clone button and download 
 
 ## Language used
-html
+-html
 css
 
 ## contacts
