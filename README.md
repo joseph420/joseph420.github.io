@@ -9,7 +9,7 @@ Click the clone button and download
 
 ## Language used
 -html
-css
+-css
 
 ## contacts
 For more info contact joseph 0705977046 or email cr.muturi@gmail.com
