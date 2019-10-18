@@ -2,7 +2,7 @@
 
 ## Author name
 
-Joseph Muturi
+Joseph Muturi Boro
 
 ## Instructions
 Click the clone button and download 
