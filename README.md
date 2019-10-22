@@ -14,3 +14,6 @@ Click the clone button and download
 ## contacts
 For more info contact joseph 0705977046 or email cr.muturi@gmail.com
 
+## Link to my website
+https://joseph420.github.io/joseph420.github.io/
+
